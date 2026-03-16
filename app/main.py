@@ -5,7 +5,7 @@ from app.schemas import ProjectCreate, ProjectUpdate, ProjectResponse
 from app.models import db
 
 app = FastAPI(
-    title="Copilot API",
+    title="Antigravity API",
     description="An extremely simple and fast REST API, built for speed and production readiness.",
     version="1.0.0"
 )
